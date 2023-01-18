@@ -23,7 +23,7 @@ print("Using device: ", device)
 
 # Load the trained model, you can use yours or the model we provide in our code
 # Make sure to set up the path correctly
-PATH = './Models/final_unet_pytorch.pth'
+PATH = '../Models/final_unet_pytorch.pth'
 model = UNet(input_channels=3)
 model.load_state_dict(torch.load(PATH, map_location=device))
 model.eval()
