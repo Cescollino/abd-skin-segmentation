@@ -2,3 +2,13 @@
 ######################
 .DS_Store
 .DS_Store?
+/All_Skin_Datasets/
+/bin/
+/include/
+/lib/
+/lib64
+/All_Skin_Datasets.zip
+/pyenv.cfg
+/__MACOSX/
+/share/
+/unet_pytorch/__pycache__/
