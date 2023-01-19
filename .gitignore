@@ -8,6 +8,7 @@
 /lib/
 /lib64
 /etc/
+/venv/
 /All_Skin_Datasets.zip
 /pyenv.cfg
 /__MACOSX/
