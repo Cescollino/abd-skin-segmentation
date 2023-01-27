@@ -14,4 +14,5 @@
 /__MACOSX/
 /share/
 /unet_pytorch/__pycache__/
-/coe.northeastern.edu/
+/Research/
+/detectron2/
